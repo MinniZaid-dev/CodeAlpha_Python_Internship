@@ -1,32 +1,55 @@
+# 🎮 CodeAlpha Hangman Game
 
-CodeAlpha_HangmanGame 🎮
+This project is a **simple text-based Hangman game** developed using **Python** as part of my **CodeAlpha Python Internship**.  
+The game runs in the command line and allows the user to guess a hidden word letter by letter.
 
-This is a Simple text-based Hangman game created as part of the CodeAlpha Internship
+---
 
-📌 Project Description:
+## 📌 Project Description
 
-1.Guess a word by entering one letter at a time. 
-2.5 predefined words (randomly selected). 
-3.You get 6 incorrect guesses before the game ends. 
-4.Built using basic Python concepts.
+The Hangman Game randomly selects a word from a predefined list.  
+The player must guess the word by entering one letter at a time.  
 
-💻 Tech Stack:
+- The player gets **6 incorrect attempts**
+- Correct letters are revealed in their positions
+- The game ends when the word is guessed or attempts are finished
 
-Python 3
-Console (CLI)
-VS Code
+This project helps beginners understand basic Python programming concepts.
 
-🧠 Key Concepts Used:
+---
 
-random. 
-while loop. 
-if-else logic. 
-Strings and Lists.
+## 🚀 Features
 
-🚀 How to Run:
+- Random word selection
+- User input handling
+- Loop-based game logic
+- Attempt tracking system
+- Beginner-friendly CLI project
 
-Install Python (if not already): https://www.python.org/downloads/
+---
 
-Open terminal and run: python hangman.py
+## 💻 Tech Stack
 
-🧾 Sample Output:
+- Python 3
+- VS Code
+- Command Line Interface (CLI)
+
+---
+
+## 📚 Concepts Used
+
+- Lists
+- Strings
+- Loops (while loop)
+- Conditional Statements (if-else)
+- Random Module
+
+---
+
+## ▶️ How to Run
+
+1. Install Python (if not installed)  
+   https://www.python.org/downloads/
+
+2. Clone the repository:
+
