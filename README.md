@@ -5,10 +5,10 @@ This is a Simple text-based Hangman game created as part of the CodeAlpha Intern
 
 📌 Project Description:
 
-Guess a word by entering one letter at a time.
-5 predefined words (randomly selected).
-You get 6 incorrect guesses before the game ends.
-Built using basic Python concepts.
+1.Guess a word by entering one letter at a time. 
+2.5 predefined words (randomly selected). 
+3.You get 6 incorrect guesses before the game ends. 
+4.Built using basic Python concepts.
 
 💻 Tech Stack:
 
@@ -18,9 +18,9 @@ VS Code
 
 🧠 Key Concepts Used:
 
-random
-while loop
-if-else logic
+random. 
+while loop. 
+if-else logic. 
 Strings and Lists.
 
 🚀 How to Run:
